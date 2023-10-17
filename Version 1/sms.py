@@ -1,0 +1,4 @@
+account_sid = "AC74d3234c1b27da3f53a19340e214c05f"
+auth_token = "7a61168f59594949f1184e7dd56c8b96"
+
+inputNO = '+14705162791'
